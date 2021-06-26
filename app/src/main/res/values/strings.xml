@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactRemover</string>
+    <string name="ending_number">Ending Number</string>
+</resources>
